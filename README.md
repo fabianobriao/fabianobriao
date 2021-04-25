@@ -47,10 +47,10 @@ I'm graduated in Mathematics from UFRG/RS, with a master's degree in Computation
 <li style="list-style-type:square">Jupyter Notebook.</li></ul>
 </td>
 <tr>
- <td style="width:318.778px;height:99.7778px; vertical-align:super">
+<td style="width:318.778px;height:99.7778px; vertical-align:super">
 <blockquote style="margin:0 0 0 40px;border:none;padding:0px">&nbsp;<b>Libraries</b></blockquote>
 <ul><li style="list-style-type:square">Pandas, numpy,...</li>
-  <ul><li style="list-style-type:square">Matplotlib, seaborn,...</li>
+<li style="list-style-type:square">Matplotlib, seaborn,...</li>
 <li style="list-style-type:square">Igraph, ggplot2, googleVis,...</li></ul>
 </td>
 <td style="width:318.778px;height:99.7778px; vertical-align:super">

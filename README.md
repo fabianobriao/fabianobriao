@@ -20,8 +20,7 @@ I'm graduated in Mathematics from UFRG/RS, with a master's degree in Computation
                     
   <h2 id="skills-section-title">My Skills</h2>
             <p class="description">Technologies I know about:</p>
-            
-  </font></ul>
+</font></ul>
 </font><font face="verdana, sans-serif" size="3">Algumas tecnologias que domino:<br>
 <br>
 <table border="1" bordercolor="#888" cellspacing="0" style="border-collapse:collapse;border-color:rgb(136,136,136);border-width:1px">
@@ -34,7 +33,7 @@ I'm graduated in Mathematics from UFRG/RS, with a master's degree in Computation
 <li style="list-style-type:square">SQL.</li>
 <li style="list-style-type:square">PL/SQL.</li></ul>
 </td>
-<td style="width:268.778px;height:91.7778px">
+<td style="width:318.778px;height:91.7778px">
 <blockquote style="margin:0 0 0 40px;border:none;padding:0px">&nbsp;<b>VCS</b></blockquote>
 <ul><li style="list-style-type:square">Git.</li>
 <li style="list-style-type:square">GitHub.</li></ul>
@@ -118,64 +117,7 @@ I'm graduated in Mathematics from UFRG/RS, with a master's degree in Computation
             
             
             
-            <div id="skills-container">
-                <div class="skills-box">
-                    <p class="skills-title">Programming Language</p>
-                    <span class="highlight">
-                    <li style="list-style-type:square">Python.</li>
-                    <li style="list-style-type:square">R Language.</li>
-                    <li style="list-style-type:square">SQL.</li>
-                    </span>
-                </div>
-                <div class="skills-box"> 
-                    <p class="skills-title">Operational System</p>
-                    <span class="highlight">
-                    <li style="list-style-type:square">Linux.</li>
-                    <li style="list-style-type:square">Windows.</li>
-                    <li style="list-style-type:square">Mac.</li>
-                    </span>
-                </div>
-                <div class="skills-box"> 
-                    <p class="skills-title">Platforms</p>
-                    <span class="highlight">
-                    <li style="list-style-type:square">Databrincks.</li>
-                    <li style="list-style-type:square">Google Colab.</li>
-                    <li style="list-style-type:square">Jupyter Lab.</li>
-                    <li style="list-style-type:square">Jupyter Notebook.</li>
-                    </span>
-                </div>
-                <div class="skills-box">
-                    <p class="skills-title">Libraries</p>
-                    <span class="highlight">
-                    <li style="list-style-type:square">Pandas, numpy, igraph, ...</li>
-                    <li style="list-style-type:square">Matplotlib, seaborn, ggplot2, googleVis, ...</li>
-                </span>
-                </div>
-                <div class="skills-box">
-                    <p class="skills-title">Database</p>
-                    <span class="highlight">
-                    <li style="list-style-type:square">MySQL, PostgreSQL.</li>
-                    <li style="list-style-type:square">MongoDB.</li>
-                    <li style="list-style-type:square">SQL Server.</li>
-                    <li style="list-style-type:square">Google BigQuery.</li>
-                    </span>
-                </div>
-                <div class="skills-box"> 
-                    <p class="skills-title">Data Visualization</p>
-                    <span class="highlight">
-                    <li style="list-style-type:square">Tableau.</li>
-                    <li style="list-style-type:square">Power BI.</li>
-                    <li style="list-style-type:square">Google Analytics.</li>
-                    </span>
-                </div>
-                <div class="skills-box"> 
-                    <p class="skills-title">VCS</p>
-                    <span class="highlight">
-                    <li style="list-style-type:square">Git.</li>
-                    <li style="list-style-type:square">GitHub.</li>
-                    </span>
-                </div>
-            </div>
+            
                <p class="description">I have knowledge of cloud, architecture and data engineering using Google Cloud Platform (GCP). Knowledge of a vast amount of laboratory hours on the Google platform, which encourages me to face the challenge of working professionally in these segments.</p>
            </section>
                 

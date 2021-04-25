@@ -37,6 +37,7 @@ I'm graduated in Mathematics from UFRG/RS, with a master's degree in Computation
 <blockquote style="margin:0 0 0 40px;border:none;padding:0px">&nbsp;<b>VCS</b></blockquote>
 <ul><li style="list-style-type:square">Git.</li>
 <li style="list-style-type:square">GitHub.</li></ul>
+  </p></p>
 </td>
 <td style="width:314.778px;height:91.7778px">
 <blockquote style="margin:0 0 0 40px;border:none;padding:0px"><b>&nbsp;Sistemas operacionais</b></blockquote>

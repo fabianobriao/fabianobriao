@@ -82,9 +82,9 @@ Language</b></blockquote>
 <!--
 More about me:
 
-- 🔭 I’m currently working as Sênior Front-End Software Developer | React | Node
+<!--- 🔭 I’m currently working as Sênior Front-End Software Developer | React | Node
 - 🌱 I’m currently learning React, React Native, Node, MongoDB, Software Architecture, Agile Methodologies, and E2E/Unit tests, besides my beloved JavaScript and CSS, that I will always be learning 💚
-- 😄 Pronouns: She/Her
+<!--- 😄 Pronouns: She/Her
 - ⚡ Fun fact: I almost ended up working as a flight attendant in 2001, before getting to know the web development world.-->
 
 ## Follow me
@@ -93,16 +93,17 @@ More about me:
 
 <!--[![Twitter: AlineBastos](https://img.shields.io/twitter/follow/AlineBastos?style=social)](https://twitter.com/Alinebastos)-->
 
-[![Linkedin: fabianobriao](https://img.shields.io/badge/-fabianobriao-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fabianobriao/)](https://www.linkedin.com/in/fabianobriao/)
+<!--[![Linkedin: fabianobriao](https://img.shields.io/badge/-fabianobriao-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fabianobriao/)](https://www.linkedin.com/in/fabianobriao/)
 
-[![GitHub fabianobriao](https://img.shields.io/github/followers/AlineBastos?label=follow&style=social)](https://github.com/AlineBastos)
+<!--[![GitHub fabianobriao](https://img.shields.io/github/followers/AlineBastos?label=follow&style=social)](https://github.com/fabianobriao)
 
+<!--
 ## GitHub Stats and Most Used Languages
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=fabianobriao&hide=issues&theme=gruvbox&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&line_height=24.5)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabianobriao&layout=compact&theme=gruvbox&langs_count=10)](https://github.com/fabianobriao/github-readme-stats)
+<!--![Github stats](https://github-readme-stats.vercel.app/api?username=fabianobriao&hide=issues&theme=gruvbox&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&line_height=24.5)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabianobriao&layout=compact&theme=gruvbox&langs_count=10)](https://github.com/fabianobriao/github-readme-stats) -->
 
-## Tech Skills
+<!--## Tech Skills-->
 
 <!--![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
@@ -112,6 +113,6 @@ More about me:
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
 ![Nodejs](https://img.shields.io/badge/NodeJs-339933.svg?logo=node.js&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-CB3837.svg?logo=npm)
-![Yarn](https://img.shields.io/badge/Yarn-2C8EBB.svg?logo=yarn&logoColor=white)-->
+![Yarn](https://img.shields.io/badge/Yarn-2C8EBB.svg?logo=yarn&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github) -->

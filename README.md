@@ -14,25 +14,10 @@ I perform tasks of: ETL(extraction, transformation, loading), presentation, inte
 
 I'm graduated in Mathematics from UFRG/RS, with a master's degree in Computational Modeling of Knowledge from IC-IMCC-UFAL/AL. I add differentials as certifications, specializations and technology training courses.
 
-For more information, curriculum vitae download in pdf: english or portuguese.
 <p class="description">For more information, curriculum vitae download in pdf: <a href="https://github.com/fabianobriao/fabianobriao.github.io/raw/master/docs/CurriculoFabianoBriao_v2_042021.pdf" >
                     <span class="highlight">english</span></a> or <a href="https://github.com/fabianobriao/fabianobriao.github.io/raw/master/docs/CurriculoFabianoBriao_v1_042021.pdf" >
                     <span class="highlight">portuguese</span></a>.</p> 
-                    I am <span class="highlight">Data Analyst</span>/<span class="highlight">Statistician</span> and experienced <span class="highlight">Back-End Python/R Developer</span>.</p>
-            Job as a freelance scientist and data analyst for a decade, adding experience with scientific research in various jobs, specifically, academics related to operational research, modeling, quantitative and simulation methods. </p>
-           I perform tasks of: ETL(extraction, transformation, loading), presentation, interpretation, data analysis, modeling, development and validation tests. I teach at universities for engineering courses with descriptive/inferential statistics, algorithms, graph theory and machine learning, applied to engineering.
-            <p class="description">I'm graduated in Mathematics from UFRG/RS, with a master's degree in Computational Modeling of Knowledge from IC-IMCC-UFAL/AL. I add differentials as certifications, specializations and technology training courses.</p>
-            <!--p class="description">I have extensive experience with scientific research in freelance work as a scientist and data analyst, meeting academic computational demands under the R language, and data visualization with Power BI, Tableau and R Shiny. Besides teaching at universities for engineering courses with descriptive / inferential statistics, algorithms and machine learning, applied to engineering.</p>
-           I got a <span class="highlight">full degree in mathematics</span> from UFRG/RS and a <span class="highlight">master's degree in Computational Modeling of Knowledge</span> from UFAL/AL, and I add my specialization training courses and certifications in the IT area. </p-->
-           For more information, curriculum vitae download in pdf: <a href="https://github.com/fabianobriao/fabianobriao.github.io/raw/master/docs/CurriculoFabianoBriao_v2_042021.pdf" >
-                    <span class="highlight">english</span></a> or <a href="https://github.com/fabianobriao/fabianobriao.github.io/raw/master/docs/CurriculoFabianoBriao_v1_042021.pdf" >
-                    <span class="highlight">portuguese</span></a>.</p>
-            <div id="email-containera"> 
-                <a  href="https://github.com/fabianobriao/" target = "_blank" id="btn-projects"><span>Projects</span></a>
-                <a  href="https://sites.google.com/site/fabianobriao/home/courses/" target = "_blank"  id="btn-projects"><span>Certified Courses</span></a>
-                <a  href="https://sites.google.com/site/fabianobriao/" target = "_blank" id="btn-projects"><span>Curriculum Vitae</span></a>
-            </div>
-                    
+                
 
 More about me:
 

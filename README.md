@@ -30,7 +30,7 @@ Language</b></blockquote>
 <li style="list-style-type:square">SQL.</li>
 <li style="list-style-type:square">PL/SQL.</li></ul>
 </td>
-<td style="width:318.778px;height:91.7778px">
+<td style="width:518.778px;height:91.7778px">
 <blockquote style="margin:0 0 0 40px; vertical-align:super;border:none;padding:0px">&nbsp;<b>VCS</b></blockquote>
 <ul><li style="list-style-type:square">Git.</li>
 <li style="list-style-type:square">GitHub.</li></ul>

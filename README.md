@@ -1,16 +1,23 @@
-# Hello World 👋
+# Welcome friend!
 
 <!--![](https://github.com/alinebastos/images/blob/master/pinguim.gif)-->
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=jumaschion.jumaschion)
 
-My name is Aline Bastos, and I am from Brazil 🇧🇷. 
+My name is Fabiano Brião, and I am from Brazil 🇧🇷. 
 
-I've been working as Front-End Developer since 2001 unofficially, and since 2010 officially. 
+I am Data Analyst/Statistician and experienced Back-End Python/R Developer.
 
-I have worked with a lot of different projects and companies, and I love to contribute to the community and mentoring people.
+Job as a freelance scientist and data analyst for a decade, adding experience with scientific research in various jobs, specifically, academics related to operational research, modeling, quantitative and simulation methods.
 
-Now I have a [Youtube channel](https://www.youtube.com/c/DeFrontcomAline) to show how to initiate in the Front-End development world, how to contribute with open source and communities, and how to be prepared to the IT world focused on Accessibility, Usability, Performance, Best Practices, SEO and another very interesting things.
+I perform tasks of: ETL(extraction, transformation, loading), presentation, interpretation, data analysis, modeling, development and validation tests. I teach at universities for engineering courses with descriptive/inferential statistics, algorithms, graph theory and machine learning, applied to engineering.
+
+I'm graduated in Mathematics from UFRG/RS, with a master's degree in Computational Modeling of Knowledge from IC-IMCC-UFAL/AL. I add differentials as certifications, specializations and technology training courses.
+
+For more information, curriculum vitae download in pdf: english or portuguese.
+<p class="description">For more information, curriculum vitae download in pdf: <a href="https://github.com/fabianobriao/fabianobriao.github.io/raw/master/docs/CurriculoFabianoBriao_v2_042021.pdf" >
+                    <span class="highlight">english</span></a> or <a href="https://github.com/fabianobriao/fabianobriao.github.io/raw/master/docs/CurriculoFabianoBriao_v1_042021.pdf" >
+                    <span class="highlight">portuguese</span></a>.</p>
 
 More about me:
 

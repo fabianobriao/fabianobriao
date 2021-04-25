@@ -21,8 +21,7 @@ I'm graduated in Mathematics from UFRG/RS, with a master's degree in Computation
 
 <table border="1" bordercolor="#888" cellspacing="0" style="border-collapse:collapse;border-color:rgb(136,136,136);border-width:1px">
 <tbody>
-<tr>
-<td style="width:318.778px;height:91.7778px">
+<td style="width:318.778px;height:91.7778px; vertical-align:super">
 <blockquote style="margin:0 0 0 40px;border:none;padding:0px"><b>&nbsp;Programming Language</b></blockquote>
 <ul><li style="list-style-type:square">Python.</li>
 <li style="list-style-type:square">R Language.</li>
@@ -66,7 +65,7 @@ I'm graduated in Mathematics from UFRG/RS, with a master's degree in Computation
 <ul><li style="list-style-type:square">Pandas, numpy, igraph, ...</li>
 <li style="list-style-type:square">Matplotlib, seaborn, ggplot2, googleVis, ...</li></ul>
 </td>
-</tr>-->
+</tr>
 <!--<td style="width:336.778px;height:99.7778px">&nbsp;</td>
 <!--</tr>-->
 </tbody>

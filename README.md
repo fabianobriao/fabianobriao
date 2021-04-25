@@ -51,7 +51,7 @@ I'm graduated in Mathematics from UFRG/RS, with a master's degree in Computation
 <li style="list-style-type:square">Jupyter Lab.</li>
 <li style="list-style-type:square">Jupyter Notebook.</li></ul>
 </td>
-</tr>
+<!--</tr>-->
 <tr>
 <td style="width:318.778px;height:99.7778px">
 <blockquote style="margin:0 0 0 40px;border:none;padding:0px">&nbsp;<b>Database</b></blockquote>
@@ -72,53 +72,10 @@ I'm graduated in Mathematics from UFRG/RS, with a master's degree in Computation
 <li style="list-style-type:square">Matplotlib, seaborn, ggplot2, googleVis, ...</li></ul>
 </td>
 <td style="width:336.778px;height:99.7778px">&nbsp;</td>
-</tr>
+<!--</tr>-->
 </tbody>
 </table>
-<br>
-<div>
-<div><span>
-                    </span>
-                </div>
-                
-<div> 
-                    <span>
-                    </span>
-                </div>
-                
-<div> 
-                    <span>
-                    </span>
-                </div>
-                
-<div> 
-                    <span>
-                    </span>
-                </div>
-                
-<div>
-                    <span>
-                    </span>
-                </div>
-                
-<div> 
-                    <span>
-                    </span>
-                </div>
-                
-<div>
-                    <span>
-                    </span>
-                </div>
-
-
-
-</div>
-            
-            
-            
-            
-               <p class="description">I have knowledge of cloud, architecture and data engineering using Google Cloud Platform (GCP). Knowledge of a vast amount of laboratory hours on the Google platform, which encourages me to face the challenge of working professionally in these segments.</p>
+<p class="description">I have knowledge of cloud, architecture and data engineering using Google Cloud Platform (GCP). Knowledge of a vast amount of laboratory hours on the Google platform, which encourages me to face the challenge of working professionally in these segments.</p>
            </section>
                 
 

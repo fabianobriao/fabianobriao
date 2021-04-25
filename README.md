@@ -19,7 +19,7 @@ I'm graduated in Mathematics from UFRG/RS, with a master's degree in Computation
 </font></ul>-->
 <table border="1" bordercolor="#888" cellspacing="0" style="border-collapse:collapse;border-color:rgb(136,136,136);border-width:1px">
 <tbody>
-<td style="width:318.778px;height:91.7778px; vertical-align:super">
+<td style="width:318.778px;height:99.7778px; vertical-align:super">
 <blockquote style="margin:0 0 0 40px;border:none;padding:0px"><b>&nbsp;Programming 
   Language</b></blockquote>
 <ul><li style="list-style-type:square">Python.</li>
@@ -39,7 +39,7 @@ I'm graduated in Mathematics from UFRG/RS, with a master's degree in Computation
 <li style="list-style-type:square">SQL Server.</li>
 <li style="list-style-type:square">Google BigQuery.</li></ul>
 </td>
-<td style="width:318.778px;height:91.7778px; vertical-align:super">
+<td style="width:318.778px;height:99.7778px; vertical-align:super">
 <blockquote style="margin:0 0 0 40px;border:none;padding:0px"><b>&nbsp;Platforms</b></blockquote>
 <ul><li style="list-style-type:square">Databricks.</li>
 <li style="list-style-type:square">Google Colab.</li>

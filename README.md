@@ -17,10 +17,8 @@ I'm graduated in Mathematics from UFRG/RS, with a master's degree in Computation
 For more information, curriculum vitae download in pdf: english or portuguese.
 <p class="description">For more information, curriculum vitae download in pdf: <a href="https://github.com/fabianobriao/fabianobriao.github.io/raw/master/docs/CurriculoFabianoBriao_v2_042021.pdf" >
                     <span class="highlight">english</span></a> or <a href="https://github.com/fabianobriao/fabianobriao.github.io/raw/master/docs/CurriculoFabianoBriao_v1_042021.pdf" >
-                    <span class="highlight">portuguese</span></a>.</p>
-                    
-                    
-                     I am <span class="highlight">Data Analyst</span>/<span class="highlight">Statistician</span> and experienced <span class="highlight">Back-End Python/R Developer</span>.</p>
+                    <span class="highlight">portuguese</span></a>.</p> 
+                    I am <span class="highlight">Data Analyst</span>/<span class="highlight">Statistician</span> and experienced <span class="highlight">Back-End Python/R Developer</span>.</p>
             Job as a freelance scientist and data analyst for a decade, adding experience with scientific research in various jobs, specifically, academics related to operational research, modeling, quantitative and simulation methods. </p>
            I perform tasks of: ETL(extraction, transformation, loading), presentation, interpretation, data analysis, modeling, development and validation tests. I teach at universities for engineering courses with descriptive/inferential statistics, algorithms, graph theory and machine learning, applied to engineering.
             <p class="description">I'm graduated in Mathematics from UFRG/RS, with a master's degree in Computational Modeling of Knowledge from IC-IMCC-UFAL/AL. I add differentials as certifications, specializations and technology training courses.</p>

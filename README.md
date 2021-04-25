@@ -42,6 +42,7 @@ I'm graduated in Mathematics from UFRG/RS, with a master's degree in Computation
 <li style="list-style-type:square">Cloud SQL.</li>
 <li style="list-style-type:square">Google BigQuery.</li></ul>
 </td>
+<tr>
 <td style="width:518.778px;height:91.7778px">
 <blockquote style="margin:0 0 0 40px; vertical-align:super;border:none;padding:0px">&nbsp;<b>VCS</b></blockquote>
 <ul><li style="list-style-type:square">Git.</li>
@@ -61,20 +62,17 @@ I'm graduated in Mathematics from UFRG/RS, with a master's degree in Computation
 <li style="list-style-type:square">Jupyter Lab.</li>
 <li style="list-style-type:square">Jupyter Notebook.</li></ul>
 </td>
-<!--</tr>-->
-<tr>
-
-
 <td style="width:314.778px;height:99.7778px">
 <blockquote style="margin:0 0 0 40px;border:none;padding:0px">&nbsp;<b>Libraries</b></blockquote>
 <ul><li style="list-style-type:square">Pandas, numpy, igraph, ...</li>
 <li style="list-style-type:square">Matplotlib, seaborn, ggplot2, googleVis, ...</li></ul>
 </td>
-<td style="width:336.778px;height:99.7778px">&nbsp;</td>
+</tr>-->
+<!--<td style="width:336.778px;height:99.7778px">&nbsp;</td>
 <!--</tr>-->
 </tbody>
 </table>
-<p class="description">I have knowledge of cloud, architecture and data engineering using Google Cloud Platform (GCP). Knowledge of a vast amount of laboratory hours on the Google platform, which encourages me to face the challenge of working professionally in these segments.</p>
+<p>I have knowledge of cloud, architecture and data engineering using Google Cloud Platform (GCP). Knowledge of a vast amount of laboratory hours on the Google platform, which encourages me to face the challenge of working professionally in these segments.</p>
            </section>
                 
 <!--

@@ -1,6 +1,6 @@
 # Hello World 👋
 
-![](https://github.com/alinebastos/images/blob/master/pinguim.gif)
+<!--![](https://github.com/alinebastos/images/blob/master/pinguim.gif)-->
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=jumaschion.jumaschion)
 

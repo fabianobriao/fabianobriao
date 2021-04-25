@@ -23,18 +23,30 @@ I'm graduated in Mathematics from UFRG/RS, with a master's degree in Computation
 <tbody>
 <tr>
 <td style="width:318.778px;height:91.7778px">
-<blockquote style="margin:0 0 0 40px;border:none;padding:0px"><b>&nbsp;Programming
-Language</b></blockquote>
+<blockquote style="margin:0 0 0 40px;border:none;padding:0px"><b>&nbsp;Programming Language</b></blockquote>
 <ul><li style="list-style-type:square">Python.</li>
 <li style="list-style-type:square">R Language.</li>
 <li style="list-style-type:square">SQL.</li>
 <li style="list-style-type:square">PL/SQL.</li></ul>
 </td>
+<td style="width:268.778px;height:99.7778px">
+<blockquote style="margin:0 0 0 40px;border:none;padding:0px"><b>&nbsp;Data Visualization</b></blockquote>
+<ul><li style="list-style-type:square">Tableau.</li>
+<li style="list-style-type:square">Power BI.</li>
+<li style="list-style-type:square">Google Analytics.</li></ul>
+</td>
+<td style="width:318.778px;height:99.7778px">
+<blockquote style="margin:0 0 0 40px;border:none;padding:0px">&nbsp;<b>Database</b></blockquote>
+<ul><li style="list-style-type:square">MySQL, PostgreSQL, SQL Server.</li>
+<li style="list-style-type:square">MongoDB, Oracle Server Developer.</li>
+<li style="list-style-type:square">Cloud SQL.</li>
+<li style="list-style-type:square">Google BigQuery.</li></ul>
+</td>
 <td style="width:518.778px;height:91.7778px">
 <blockquote style="margin:0 0 0 40px; vertical-align:super;border:none;padding:0px">&nbsp;<b>VCS</b></blockquote>
 <ul><li style="list-style-type:square">Git.</li>
 <li style="list-style-type:square">GitHub.</li></ul>
-  </p></p>
+</p></p>
 </td>
 <td style="width:314.778px;height:91.7778px">
 <blockquote style="margin:0 0 0 40px;border:none;padding:0px"><b>&nbsp;Operational System</b></blockquote>
@@ -51,19 +63,8 @@ Language</b></blockquote>
 </td>
 <!--</tr>-->
 <tr>
-<td style="width:318.778px;height:99.7778px">
-<blockquote style="margin:0 0 0 40px;border:none;padding:0px">&nbsp;<b>Database</b></blockquote>
-<ul><li style="list-style-type:square">MySQL, PostgreSQL, SQL Server.</li>
-<li style="list-style-type:square">MongoDB, Oracle Server Developer.</li>
-<li style="list-style-type:square">Cloud SQL.</li>
-<li style="list-style-type:square">Google BigQuery.</li></ul>
-</td>
-<td style="width:268.778px;height:99.7778px">
-<blockquote style="margin:0 0 0 40px;border:none;padding:0px"><b>&nbsp;Data Visualization</b></blockquote>
-<ul><li style="list-style-type:square">Tableau.</li>
-<li style="list-style-type:square">Power BI.</li>
-<li style="list-style-type:square">Google Analytics.</li></ul>
-</td>
+
+
 <td style="width:314.778px;height:99.7778px">
 <blockquote style="margin:0 0 0 40px;border:none;padding:0px">&nbsp;<b>Libraries</b></blockquote>
 <ul><li style="list-style-type:square">Pandas, numpy, igraph, ...</li>

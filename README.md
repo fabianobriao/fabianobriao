@@ -13,12 +13,10 @@ I'm graduated in Mathematics from UFRG/RS, with a master's degree in Computation
 
 <p class="description">For more information, curriculum vitae download in pdf: <a href="https://github.com/fabianobriao/fabianobriao.github.io/raw/master/docs/CurriculoFabianoBriao_v2_042021.pdf" >
                     <span class="highlight">english</span></a> or <a href="https://github.com/fabianobriao/fabianobriao.github.io/raw/master/docs/CurriculoFabianoBriao_v1_042021.pdf" >
-                    <span class="highlight">portuguese</span></a>.</p> 
-                    
+                    <span class="highlight">portuguese</span></a>.</p>
 <h2 id="skills-section-title">My Skills</h2>
 <!--p class="description">Technologies I know about:</p>
 </font></ul>-->
-
 <table border="1" bordercolor="#888" cellspacing="0" style="border-collapse:collapse;border-color:rgb(136,136,136);border-width:1px">
 <tbody>
 <td style="width:318.778px;height:91.7778px; vertical-align:super">
@@ -27,20 +25,20 @@ I'm graduated in Mathematics from UFRG/RS, with a master's degree in Computation
 <li style="list-style-type:square">R Language.</li>
 <li style="list-style-type:square">SQL.</li></ul>
 </td>
-<td style="width:268.778px;height:99.7778px">
+<td style="width:268.778px;height:99.7778px; vertical-align:super">
 <blockquote style="margin:0 0 0 40px;border:none;padding:0px"><b>&nbsp;Data Visualization</b></blockquote>
 <ul><li style="list-style-type:square">Tableau.</li>
 <li style="list-style-type:square">Power BI.</li>
 <li style="list-style-type:square">Google Analytics.</li></ul>
 </td>
-<td style="width:318.778px;height:99.7778px">
+<td style="width:318.778px;height:99.7778px; vertical-align:super">
 <blockquote style="margin:0 0 0 40px;border:none;padding:0px">&nbsp;<b>Database</b></blockquote>
 <ul><li style="list-style-type:square">MySQL, PostgreSQL.</li>
 <li style="list-style-type:square">MongoDB.</li>
 <li style="list-style-type:square">, SQL Server.</li>
 <li style="list-style-type:square">Google BigQuery.</li></ul>
 </td>
-<td style="width:336.778px;height:91.7778px">
+<td style="width:336.778px;height:91.7778px; vertical-align:super">
 <blockquote style="margin:0 0 0 40px;border:none;padding:0px"><b>&nbsp;Platforms</b></blockquote>
 <ul><li style="list-style-type:square">Databricks.</li>
 <li style="list-style-type:square">Google Colab.</li>
@@ -48,22 +46,22 @@ I'm graduated in Mathematics from UFRG/RS, with a master's degree in Computation
 <li style="list-style-type:square">Jupyter Notebook.</li></ul>
 </td>
 <tr>
-<td style="width:518.778px;height:91.7778px">
+ <td style="width:314.778px;height:99.7778px; vertical-align:super">
+<blockquote style="margin:0 0 0 40px;border:none;padding:0px">&nbsp;<b>Libraries</b></blockquote>
+<ul><li style="list-style-type:square">Pandas, numpy, igraph, ...</li>
+<li style="list-style-type:square">Matplotlib, seaborn, ggplot2, googleVis, ...</li></ul>
+</td>
+<td style="width:518.778px;height:91.7778px; vertical-align:super">
 <blockquote style="margin:0 0 0 40px; vertical-align:super;border:none;padding:0px">&nbsp;<b>VCS</b></blockquote>
 <ul><li style="list-style-type:square">Git.</li>
 <li style="list-style-type:square">GitHub.</li></ul>
 </p></p>
 </td>
-<td style="width:314.778px;height:91.7778px">
+<td style="width:314.778px;height:91.7778px; vertical-align:super">
 <blockquote style="margin:0 0 0 40px;border:none;padding:0px"><b>&nbsp;Operational System</b></blockquote>
 <ul><li style="list-style-type:square">Linux.</li>
 <li style="list-style-type:square">Windows.</li>
 <li style="list-style-type:square">Mac.</li></ul>
-</td>
-<td style="width:314.778px;height:99.7778px">
-<blockquote style="margin:0 0 0 40px;border:none;padding:0px">&nbsp;<b>Libraries</b></blockquote>
-<ul><li style="list-style-type:square">Pandas, numpy, igraph, ...</li>
-<li style="list-style-type:square">Matplotlib, seaborn, ggplot2, googleVis, ...</li></ul>
 </td>
 </tr>
 <!--<td style="width:336.778px;height:99.7778px">&nbsp;</td>
@@ -71,7 +69,7 @@ I'm graduated in Mathematics from UFRG/RS, with a master's degree in Computation
 </tbody>
 </table>
 <p>I have knowledge of cloud, architecture and data engineering using Google Cloud Platform (GCP). Knowledge of a vast amount of laboratory hours on the Google platform, which encourages me to face the challenge of working professionally in these segments.</p>
-           </section>
+</section>
                 
 <!--
 More about me:

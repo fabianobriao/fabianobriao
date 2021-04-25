@@ -15,9 +15,9 @@ I'm graduated in Mathematics from UFRG/RS, with a master's degree in Computation
                     <span class="highlight">english</span></a> or <a href="https://github.com/fabianobriao/fabianobriao.github.io/raw/master/docs/CurriculoFabianoBriao_v1_042021.pdf" >
                     <span class="highlight">portuguese</span></a>.</p> 
                     
-  <h2 id="skills-section-title">My Skills</h2>
-<p class="description">Technologies I know about:</p>
-</font></ul>
+<h2 id="skills-section-title">My Skills</h2>
+<!--p class="description">Technologies I know about:</p>
+</font></ul>-->
 <br>
 <table border="1" bordercolor="#888" cellspacing="0" style="border-collapse:collapse;border-color:rgb(136,136,136);border-width:1px">
 <tbody>
@@ -42,6 +42,13 @@ I'm graduated in Mathematics from UFRG/RS, with a master's degree in Computation
 <li style="list-style-type:square">Cloud SQL.</li>
 <li style="list-style-type:square">Google BigQuery.</li></ul>
 </td>
+<td style="width:336.778px;height:91.7778px">
+<blockquote style="margin:0 0 0 40px;border:none;padding:0px"><b>&nbsp;Platforms</b></blockquote>
+<ul><li style="list-style-type:square">Databricks.</li>
+<li style="list-style-type:square">Google Colab.</li>
+<li style="list-style-type:square">Jupyter Lab.</li>
+<li style="list-style-type:square">Jupyter Notebook.</li></ul>
+</td>
 <tr>
 <td style="width:518.778px;height:91.7778px">
 <blockquote style="margin:0 0 0 40px; vertical-align:super;border:none;padding:0px">&nbsp;<b>VCS</b></blockquote>
@@ -54,13 +61,6 @@ I'm graduated in Mathematics from UFRG/RS, with a master's degree in Computation
 <ul><li style="list-style-type:square">Linux.</li>
 <li style="list-style-type:square">Windows.</li>
 <li style="list-style-type:square">Mac.</li></ul>
-</td>
-<td style="width:336.778px;height:91.7778px">
-<blockquote style="margin:0 0 0 40px;border:none;padding:0px"><b>&nbsp;Platforms</b></blockquote>
-<ul><li style="list-style-type:square">Databricks.</li>
-<li style="list-style-type:square">Google Colab.</li>
-<li style="list-style-type:square">Jupyter Lab.</li>
-<li style="list-style-type:square">Jupyter Notebook.</li></ul>
 </td>
 <td style="width:314.778px;height:99.7778px">
 <blockquote style="margin:0 0 0 40px;border:none;padding:0px">&nbsp;<b>Libraries</b></blockquote>

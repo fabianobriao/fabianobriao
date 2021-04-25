@@ -19,34 +19,34 @@ I'm graduated in Mathematics from UFRG/RS, with a master's degree in Computation
                     <span class="highlight">portuguese</span></a>.</p> 
                     
   <h2 id="skills-section-title">My Skills</h2>
-            <p class="description">Technologies I know about:</p>
+<p class="description">Technologies I know about:</p>
 </font></ul>
-</font><font face="verdana, sans-serif" size="3">Algumas tecnologias que domino:<br>
 <br>
 <table border="1" bordercolor="#888" cellspacing="0" style="border-collapse:collapse;border-color:rgb(136,136,136);border-width:1px">
 <tbody>
 <tr>
 <td style="width:318.778px;height:91.7778px">
-<blockquote style="margin:0 0 0 40px;border:none;padding:0px"><b>&nbsp;Linguagens de programação</b></blockquote>
+<blockquote style="margin:0 0 0 40px;border:none;padding:0px"><b>&nbsp;Programming
+Language</b></blockquote>
 <ul><li style="list-style-type:square">Python.</li>
 <li style="list-style-type:square">R Language.</li>
 <li style="list-style-type:square">SQL.</li>
 <li style="list-style-type:square">PL/SQL.</li></ul>
 </td>
 <td style="width:318.778px;height:91.7778px">
-<blockquote style="margin:0 0 0 40px;border:none;padding:0px">&nbsp;<b>VCS</b></blockquote>
+<blockquote style="margin:0 0 0 40px; vertical-align:super;border:none;padding:0px">&nbsp;<b>VCS</b></blockquote>
 <ul><li style="list-style-type:square">Git.</li>
 <li style="list-style-type:square">GitHub.</li></ul>
   </p></p>
 </td>
 <td style="width:314.778px;height:91.7778px">
-<blockquote style="margin:0 0 0 40px;border:none;padding:0px"><b>&nbsp;Sistemas operacionais</b></blockquote>
+<blockquote style="margin:0 0 0 40px;border:none;padding:0px"><b>&nbsp;Operational System</b></blockquote>
 <ul><li style="list-style-type:square">Linux.</li>
 <li style="list-style-type:square">Windows.</li>
 <li style="list-style-type:square">Mac.</li></ul>
 </td>
 <td style="width:336.778px;height:91.7778px">
-<blockquote style="margin:0 0 0 40px;border:none;padding:0px"><b>&nbsp;Plataformas</b></blockquote>
+<blockquote style="margin:0 0 0 40px;border:none;padding:0px"><b>&nbsp;Platforms</b></blockquote>
 <ul><li style="list-style-type:square">Databricks.</li>
 <li style="list-style-type:square">Google Colab.</li>
 <li style="list-style-type:square">Jupyter Lab.</li>
@@ -62,13 +62,13 @@ I'm graduated in Mathematics from UFRG/RS, with a master's degree in Computation
 <li style="list-style-type:square">Google BigQuery.</li></ul>
 </td>
 <td style="width:268.778px;height:99.7778px">
-<blockquote style="margin:0 0 0 40px;border:none;padding:0px"><b>&nbsp;Visualização de dados</b></blockquote>
+<blockquote style="margin:0 0 0 40px;border:none;padding:0px"><b>&nbsp;Data Visualization</b></blockquote>
 <ul><li style="list-style-type:square">Tableau.</li>
 <li style="list-style-type:square">Power BI.</li>
 <li style="list-style-type:square">Google Analytics.</li></ul>
 </td>
 <td style="width:314.778px;height:99.7778px">
-<blockquote style="margin:0 0 0 40px;border:none;padding:0px">&nbsp;<b>Bibliotecas</b></blockquote>
+<blockquote style="margin:0 0 0 40px;border:none;padding:0px">&nbsp;<b>Libraries</b></blockquote>
 <ul><li style="list-style-type:square">Pandas, numpy, igraph, ...</li>
 <li style="list-style-type:square">Matplotlib, seaborn, ggplot2, googleVis, ...</li></ul>
 </td>

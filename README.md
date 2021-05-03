@@ -3,7 +3,7 @@
 <!--![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=jumaschion.jumaschion)-->
 My name is Fabiano Brião, and I am from Brazil.
 
-First off, I am <span class="highlight">Data Analyst</span> and <span class="highlight">Mathematician/Statistician</span>, but also a <span class="highlight">Back-End Python/R Developer</span> with knowledge of artificial intelligence.        
+<p class="description">First off, I am <span class="highlight">Data Analyst</span> and <span class="highlight">Mathematician/Statistician</span>, but also a <span class="highlight">Back-End Python/R Developer</span> with knowledge of artificial intelligence.</p>       
 
 Job as a freelance scientist and data analyst for a decade, adding experience with scientific research in various jobs, specifically, academics related to operational research, modeling, quantitative and simulation methods.
 

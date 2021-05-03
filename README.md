@@ -1,7 +1,7 @@
 # Welcome friend!
 <!--![](https://github.com/alinebastos/images/blob/master/pinguim.gif)-->
 <!--![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=jumaschion.jumaschion)-->
-My name is Fabiano Brião, and I am from Brazil 🇧🇷. 
+My name is Fabiano Brião, and I am from Brazil. 
 
 I am Data Analyst/Statistician and experienced Back-End Python/R Developer.
 

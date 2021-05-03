@@ -84,7 +84,7 @@ More about me:
 <!--[![Youtube Badge](https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&labelColor=FF0000&logo=youtube&logoColor=white&link=https://www.youtube.com/c/DeFrontcomAline)](https://www.youtube.com/c/DeFrontcomAline)-->
 <!--[![Twitter: AlineBastos](https://img.shields.io/twitter/follow/AlineBastos?style=social)](https://twitter.com/Alinebastos)-->
 [![Linkedin: fabianobriao](https://img.shields.io/badge/-fabianobriao-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fabianobriao/)](https://www.linkedin.com/in/fabianobriao/)
-[![GitHub fabianobriao](https://img.shields.io/github/followers/fabianobriao?label=follow&style=social)](https://github.com/fabianobriao)
+<!--[![GitHub fabianobriao](https://img.shields.io/github/followers/fabianobriao?label=follow&style=social)](https://github.com/fabianobriao)
 ![Tableu](https://www.tableau.com/sites/default/files/pages/tableaulogo_highres.png)
 
 <!--## GitHub Stats and Most Used Languages

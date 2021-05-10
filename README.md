@@ -3,11 +3,15 @@
 <!--![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=jumaschion.jumaschion)-->
 My name is Fabiano Brião, and I am from Brazil.
 
-<p class="description">First off, I am <span class="highlight">Data Analyst</span> and <span class="highlight">Mathematician/Statistician</span>, but also a <span class="highlight">Back-End Python/R Developer</span> with knowledge of artificial intelligence.</p>       
+<p class="description">First off, I am <span class="highlight">Data Analyst</span> and <span class="highlight">Mathematician/Statistician</span>,present in the technology market since 2010. But,  also a <span class="highlight">Back-End Python/R Developer</span> with knowledge of artificial intelligence.</p>       
 
-Job as a freelance scientist and data analyst for a decade, adding experience with scientific research in various jobs, specifically, academics related to operational research, modeling, quantitative and simulation methods.
+I act as a freelance data analyst for a decade, besides working as data scientist. In this journey I acquired experience and skills such as communication, proactivity, autonomy, critical thinking and negotiation.
 
-I perform tasks of: ETL(extraction, transformation, loading), presentation, interpretation, data analysis, modeling, development and validation tests. I teach at universities for engineering courses with descriptive/inferential statistics, algorithms, graph theory and machine learning, applied to engineering.
+I use ETL techniques (extraction, transformation, loading), presentation, interpretation, data analysis, modeling, development and validation tests with use of Python, R, Tableau Prep. and Google Studio. But, moreover,  development in machine learning projects.
+
+I work with databases in various SGDB with advanced knowledge of language. And, I use visualization tools Tableau and Google Analytics for graphics, dashboards and presentations.
+
+I have a history related to management that comforts me to lead teams and make decisions. This is due to the 15 years of experience as a university professor teaching classes in engineering and administration courses with passages in positions of coordinator and collegiate.
 
 I'm graduated in Mathematics from UFRG/RS, with a master's degree in Computational Modeling of Knowledge from IC-IMCC-UFAL/AL. I add differentials as certifications, specializations and technology training courses.
 
@@ -22,14 +26,13 @@ I'm graduated in Mathematics from UFRG/RS, with a master's degree in Computation
 <td style="width:318.778px;height:99.7778px; vertical-align:super">
 <blockquote style="margin:0 0 0 40px;border:none;padding:0px"><b>&nbsp;Programming 
   Language</b></blockquote>
-<ul><li style="list-style-type:square">Python.</li>
-<li style="list-style-type:square">R Language.</li>
-<li style="list-style-type:square">SQL.</li></ul>
+<ul><li style="list-style-type:square">Python advanced.</li>
+<li style="list-style-type:square">R Language advanced.</li>
+<li style="list-style-type:square">SQL advanced.</li></ul>
 </td>
 <td style="width:318.778px;height:99.7778px; vertical-align:super">
 <blockquote style="margin:0 0 0 40px;border:none;padding:0px"><b>&nbsp;Data Visualization</b></blockquote>
-<ul><li style="list-style-type:square">Tableau.</li>
-<li style="list-style-type:square">Power BI.</li>
+<ul><li style="list-style-type:square">Tableau advanced.</li>
 <li style="list-style-type:square">Google Analytics.</li></ul>
 </td>
 <td style="width:318.778px;height:99.7778px; vertical-align:super">
@@ -43,8 +46,8 @@ I'm graduated in Mathematics from UFRG/RS, with a master's degree in Computation
 <blockquote style="margin:0 0 0 40px;border:none;padding:0px"><b>&nbsp;Platforms</b></blockquote>
 <ul><li style="list-style-type:square">Databricks.</li>
 <li style="list-style-type:square">Google Colab.</li>
-<li style="list-style-type:square">Jupyter Lab.</li>
-<li style="list-style-type:square">Jupyter Notebook.</li></ul>
+<li style="list-style-type:square">Jupyter Notebook.</li>
+<li style="list-style-type:square"></li>Tableau Prep.</ul>
 </td>
 <tr>
 <td style="width:318.778px;height:99.7778px; vertical-align:super">
@@ -69,7 +72,7 @@ I'm graduated in Mathematics from UFRG/RS, with a master's degree in Computation
 <!--</tr>-->
 </tbody>
 </table>
-<p>I have knowledge of cloud, architecture and data engineering using Google Cloud Platform (GCP). Knowledge of a vast amount of laboratory hours on the Google platform, which encourages me to face the challenge of working professionally in these segments.</p>
+<p>I've a knowledge of Google Cloud Platform (GCP) and networking courses in Network, Engineering and Architecture with Google Compute Engine. Nowadays, I'm an advanced English student, focusing on conversation.</p>
 </section>
                 
 <!--

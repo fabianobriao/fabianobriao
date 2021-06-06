@@ -3,7 +3,7 @@
 <!--![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=jumaschion.jumaschion)-->
 My name is Fabiano Brião, and I am from Brazil.
 
-<p class="description">First off, I am <span class="highlight">Data Analyst</span> and <span class="highlight">Mathematician/Statistician</span>,present in the technology market since 2010. But,  also a <span class="highlight">Back-End Python/R Developer</span> with knowledge of artificial intelligence.</p>       
+I am Data Scientist with expertise in artificial intelligence and extensive experience as a Data Analyst and Statistician, present in the technology market since 2010.     
 
 I act as a freelance data analyst for a decade, besides working as data scientist. In this journey I acquired experience and skills such as communication, proactivity, autonomy, critical thinking and negotiation.
 
@@ -44,10 +44,9 @@ I'm graduated in Mathematics from UFRG/RS, with a master's degree in Computation
 </td>
 <td style="width:318.778px;height:99.7778px; vertical-align:super">
 <blockquote style="margin:0 0 0 40px;border:none;padding:0px"><b>&nbsp;Platforms</b></blockquote>
-<ul><li style="list-style-type:square">Databricks.</li>
 <li style="list-style-type:square">Google Colab.</li>
 <li style="list-style-type:square">Jupyter Notebook.</li>
-<li style="list-style-type:square"></li>Tableau Prep.</ul>
+<li style="list-style-type:square">Tableau Prep.</li></ul>
 </td>
 <tr>
 <td style="width:318.778px;height:99.7778px; vertical-align:super">

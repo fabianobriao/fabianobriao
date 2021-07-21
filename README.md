@@ -1,7 +1,7 @@
 # Welcome friend!
 <!--![](https://github.com/alinebastos/images/blob/master/pinguim.gif)-->
 <!--![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=jumaschion.jumaschion)-->
-My name is Fabiano Brião, and I am from Brazil.
+My name is Fabiano Brião, I am from Brazil.
 
 I am Data Scientist with expertise in artificial intelligence and extensive experience as a Data Analyst and Statistician, present in the technology market since 2010.     
 

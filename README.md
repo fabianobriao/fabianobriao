@@ -37,7 +37,7 @@ I'm graduated in Mathematics from UFRG/RS, with a master's degree in Computation
 </td>
 <td style="width:318.778px;height:99.7778px; vertical-align:super">
 <blockquote style="margin:0 0 0 40px;border:none;padding:0px">&nbsp;<b>Database</b></blockquote>
-<ul><li style="list-style-type:square">MySQL, PostgreSQL.</li>
+<ul><li style="list-style-type:square">Oracle, MySQL, PostgreSQL.</li>
 <li style="list-style-type:square">MongoDB.</li>
 <li style="list-style-type:square">SQL Server.</li>
 <li style="list-style-type:square">Google BigQuery.</li></ul>

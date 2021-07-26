@@ -1,19 +1,25 @@
 # Welcome friend!
 <!--![](https://github.com/alinebastos/images/blob/master/pinguim.gif)-->
 <!--![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=jumaschion.jumaschion)-->
-My name is Fabiano Brião, I am from Brazil.
+My name is Fabiano Brião.
 
-I am Data Scientist with expertise in artificial intelligence and extensive experience as a Data Analyst and Statistician, present in the technology market since 2010.     
+I am Data Analyst/Scientist, present in the technology market since 2010. University professor of Applied Descriptive and Inferential Statistics. I'm MSc. in Computational Knowledge Modeling with research in computational statistics, data modeling, quantitative and simulation methods.
 
-I act as a freelance data analyst for a decade, besides working as data scientist. In this journey I acquired experience and skills such as communication, proactivity, autonomy, critical thinking and negotiation.
+I have experience in ETL techniques (extraction, transformation, loading), presentation, interpretation, data analysis, modeling, development and statistical validation tests. Advanced knowledge in Python, R, SQL and Tableau Desktop, with analytical potential for analysis, insights and decision making through data modeling and visualization, development, predictive models and machine learning.
 
-I use ETL techniques (extraction, transformation, loading), presentation, interpretation, data analysis, modeling, development and validation tests with use of Python, R, Tableau Prep. and Google Studio. But, moreover,  development in machine learning projects.
+I act as a Data Analyst/Scientist freelancer on demand for a decade. In this journey I acquired experience and soft skills such as communication, proactiveness, autonomy, critical thinking, negotiation and decision making.
+
+I use ETL techniques (extraction, transformation, loading), presentation, interpretation, data analysis, modeling, development and statistical validation tests. Advanced knowledge in Python, R, SQL and Tableau Desktop, with analytical potential for analysis, insights and decision making through data modeling and visualization, development, predictive models and machine learning.
 
 I work with databases in various SGDB with advanced knowledge of language. And, I use visualization tools Tableau and Google Analytics for graphics, dashboards and presentations.
 
 I have a history related to management that comforts me to lead teams and make decisions. This is due to the 15 years of experience as a university professor teaching classes in engineering and administration courses with passages in positions of coordinator and collegiate.
 
+It adds to its curriculum specializations from Google Integrated Courses, adding knowledge in networking, engineering and architecture with Google Compute Engine. In addition to good practices on Data Governance.
+
 I'm graduated in Mathematics from UFRG/RS, with a master's degree in Computational Modeling of Knowledge from IC-IMCC-UFAL/AL. I add differentials as certifications, specializations and technology training courses.
+
+Last but not least, I am an English student and my goal is to be fluent by the end of this year 2021.
 
 <p class="description">For more information, curriculum vitae download in pdf: <a href="https://github.com/fabianobriao/fabianobriao.github.io/raw/master/docs/CurriculoFabianoBriao_v2_042021.pdf" >
                     <span class="highlight">english</span></a> or <a href="https://github.com/fabianobriao/fabianobriao.github.io/raw/master/docs/CurriculoFabianoBriao_v1_042021.pdf" >
@@ -71,7 +77,7 @@ I'm graduated in Mathematics from UFRG/RS, with a master's degree in Computation
 <!--</tr>-->
 </tbody>
 </table>
-<p>I've a knowledge of Google Cloud Platform (GCP) and networking courses in Network, Engineering and Architecture with Google Compute Engine. Nowadays, I'm an advanced English student, focusing on conversation.</p>
+
 </section>
                 
 <!--

@@ -21,9 +21,11 @@ I'm graduated in Mathematics from UFRG/RS, with a master's degree in Computation
 
 Last but not least, I am an English student and my goal is to be fluent by the end of this year 2021.
 
-<p class="description">For more information, curriculum vitae download in pdf: <a href="https://github.com/fabianobriao/fabianobriao.github.io/raw/master/docs/CurriculoFabianoBriao_v2_042021.pdf" >
-                    <span class="highlight">english</span></a> or <a href="https://github.com/fabianobriao/fabianobriao.github.io/raw/master/docs/CurriculoFabianoBriao_v1_042021.pdf" >
+<p class="description">For more information, curriculum vitae download in pdf: <a href="https://github.com/fabianobriao/fabianobriao.github.io/raw/master/docs/CV_FabianoSBriao_Port_DS_Ago2021.pdf" >
                     <span class="highlight">portuguese</span></a>.</p>
+  <!--or <a href="https://github.com/fabianobriao/fabianobriao.github.io/raw/master/docs/CurriculoFabianoBriao_v1_042021.pdf" >..>
+                    <span class="highlight"></span></a>.-->
+
 <h2 id="skills-section-title">My Skills</h2>
 <!--p class="description">Technologies I know about:</p>
 </font></ul>-->
